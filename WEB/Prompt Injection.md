@@ -1,7 +1,8 @@
 # Challenge 4: Prompt Injection
 Question:I have this collection of poems and whenever I am happy I have a look at them, hope you like it!
 
-![Main Page](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/30d974c6-eb9e-414b-8999-3e1b63345aa3)
+![Main Page](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/e6dd751f-acd7-4a08-8db7-277114794bdd)
+
 
 We are given a link to a website and no source code. Looking at the bottle poem website, we find a lot of links to poems:
 ```
@@ -12,7 +13,7 @@ We are given a link to a website and no source code. Looking at the bottle poem 
 </ul>
 ```
 
-![2](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/a74b92ec-6d37-42c4-9d6e-01040e4e0296)
+![2](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/b9f9bf04-6482-4514-9103-3e4b14039f92)
 
 
 The `id` parameter looks vulnerable to a local file inclusion attack, so lets test it out by going to a url with a local 
@@ -27,7 +28,7 @@ Using the file ```/proc/self/cmdline```, we can find out that the commmand curre
 
 By visiting ```http://ch681363157615.ch.eng.run/show?id=/app/app.py``` we get the webserver source:
 
-![1](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/e4198977-27fe-47c0-9791-99a051d79735)
+![1](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/a92a39b9-3658-44b6-ad8d-26d03afbbbcf)
 
 The source Code:
 
@@ -88,7 +89,7 @@ http://ch681363157615.ch.eng.run/show?id=/app/config/secret.py
 
 We now know the secret that is used to sign cookies:
 
-![Try Hard](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/0b0b8d08-f3d6-4938-a6fd-ac436a2637b3)
+![Try Hard](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/a9860290-8639-4051-8c7a-61bd7c9b7941)
 
 
 `Vishwa = "trrrrrrrrrrrrryyyyyyyyyyyharddddddddd" `
@@ -305,6 +306,9 @@ print(base64.b64decode(r.headers["x-flag"]).decode("ascii"))
 
 This will automatically fetch the flag for us. 
 
- Flag:`VishwaCTF{W3lcome_t0_p03m_p0ck3t}`
+![flag](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/f44aa100-c5b5-4678-a25c-4f6a55801536)
+
+
+Flag:`VishwaCTF{W3lcome_t0_p03m_p0ck3t}`
  
-![flag](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/52a53465-2224-42e6-b36a-076c5b9b3a23)
+
