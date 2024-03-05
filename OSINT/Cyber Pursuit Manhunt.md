@@ -58,33 +58,61 @@ Looking at his second post, another link could be obtained that leads to an [ima
 
 `
 └─$ exiftool stock.jpg 
+
 ExifTool Version Number         : 12.76
+
 File Name                       : stock.jpg
+
 Directory                       : .
+
 File Size                       : 417 kB
+
 File Modification Date/Time     : 2024:03:03 09:08:04-05:00
+
 File Access Date/Time           : 2024:03:03 09:08:11-05:00
+
 File Inode Change Date/Time     : 2024:03:03 09:08:04-05:00
+
 File Permissions                : -rwxrwxrwx
+
 File Type                       : JPEG
+
 File Type Extension             : jpg
+
 MIME Type                       : image/jpeg
+
 Exif Byte Order                 : Big-endian (Motorola, MM)
+
 Light Source                    : Unknown
+
 Orientation                     : Unknown (0)
+
 GPS Latitude Ref                : North
+
 GPS Longitude Ref               : East
+
 Image Width                     : 1500
+
 Image Height                    : 1101
+
 Encoding Process                : Baseline DCT, Huffman coding
+
 Bits Per Sample                 : 8
+
 Color Components                : 3
+
 Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+
 Image Size                      : 1500x1101
+
 Megapixels                      : 1.7
+
 GPS Latitude                    : 19 deg 57' 41.54" N
+
 GPS Longitude                   : 79 deg 17' 46.13" E
+
 GPS Position                    : 19 deg 57' 41.54" N, 79 deg 17' 46.13" E
+
 `
 
 ![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/f6ad7a73-1e98-4517-8501-81c552890116)
