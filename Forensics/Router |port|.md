@@ -1,8 +1,6 @@
 ## Task 3: Router |port|
 Question: There's some unusual traffic on the daytime port, but it isn't related to date or time requests. Analyze the packet capture to retrieve the flag.
 
-Flag: `VishwaCTF{K3Y5_CAN_0P3N_10CK5}`
-
 We are given a pcap file that has several packets with different protocols. The description mentioned something about daytime port, so I checked online on what port is it to filter my search. Doing some Googling, the port for daytime protocol is `Port 13 (tcp/udp)`. Looking at the packets, there seems to be encoded text that holds valuable information. This is pretty guessy but I tried Vigenère decode with this [site](https://www.guballa.de/vigenere-solver) and it shows that it was decoded using keyword `nnn`.
 
 ![image](https://github.com/warlocksmurf/onlinectf-writeups/assets/121353711/67c09a9a-6f6f-4c64-9ad6-499abc3937be)
@@ -72,3 +70,4 @@ cat hiddata.csv | cut -d "," -f 7 | cut -d "\"" -f 2 | grep -vE "HID Data" > hex
 
 ```
 ```
+Flag: `VishwaCTF{K3Y5_CAN_0P3N_10CK5}`
