@@ -56,64 +56,63 @@ Looking at his second post, another link could be obtained that leads to an [ima
 
 ![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/da309b32-e897-41f7-9722-84ab62672d64)
 
-`
-└─$ exiftool stock.jpg 
 
-ExifTool Version Number         : 12.76
+- └─$ exiftool stock.jpg 
 
-File Name                       : stock.jpg
+- ExifTool Version Number         : 12.76
 
-Directory                       : .
+- File Name                       : stock.jpg
 
-File Size                       : 417 kB
+- Directory                       : .
 
-File Modification Date/Time     : 2024:03:03 09:08:04-05:00
+- File Size                       : 417 kB
 
-File Access Date/Time           : 2024:03:03 09:08:11-05:00
+- File Modification Date/Time     : 2024:03:03 09:08:04-05:00
 
-File Inode Change Date/Time     : 2024:03:03 09:08:04-05:00
+- File Access Date/Time           : 2024:03:03 09:08:11-05:00
 
-File Permissions                : -rwxrwxrwx
+- File Inode Change Date/Time     : 2024:03:03 09:08:04-05:00
 
-File Type                       : JPEG
+- File Permissions                : -rwxrwxrwx
 
-File Type Extension             : jpg
+- File Type                       : JPEG
 
-MIME Type                       : image/jpeg
+- File Type Extension             : jpg
 
-Exif Byte Order                 : Big-endian (Motorola, MM)
+- MIME Type                       : image/jpeg
 
-Light Source                    : Unknown
+- Exif Byte Order                 : Big-endian (Motorola, MM)
 
-Orientation                     : Unknown (0)
+- Light Source                    : Unknown
 
-GPS Latitude Ref                : North
+- Orientation                     : Unknown (0)
 
-GPS Longitude Ref               : East
+- GPS Latitude Ref                : North
 
-Image Width                     : 1500
+- GPS Longitude Ref               : East
 
-Image Height                    : 1101
+- Image Width                     : 1500
 
-Encoding Process                : Baseline DCT, Huffman coding
+- Image Height                    : 1101
 
-Bits Per Sample                 : 8
+- Encoding Process                : Baseline DCT, Huffman coding
 
-Color Components                : 3
+- Bits Per Sample                 : 8
 
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+- Color Components                : 3
 
-Image Size                      : 1500x1101
+- Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
 
-Megapixels                      : 1.7
+- Image Size                      : 1500x1101
 
-GPS Latitude                    : 19 deg 57' 41.54" N
+- Megapixels                      : 1.7
 
-GPS Longitude                   : 79 deg 17' 46.13" E
+- GPS Latitude                    : 19 deg 57' 41.54" N
 
-GPS Position                    : 19 deg 57' 41.54" N, 79 deg 17' 46.13" E
+- GPS Longitude                   : 79 deg 17' 46.13" E
 
-`
+- GPS Position                    : 19 deg 57' 41.54" N, 79 deg 17' 46.13" E
+
 
 ![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/f6ad7a73-1e98-4517-8501-81c552890116)
 
