@@ -26,4 +26,21 @@ Here are the Screenshots of the challenge
 
 ![5](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/b4103f77-10da-422a-8f4e-6a9e05ad873b)
 
+The Answers:
+- Kshirasagara_Mandara
+- Garuda
+- Vasuki
+- halahala
+- Kalpavriksha
+- Airavata
+- Sharanga
+- Panchajanya
+- Lakshmi
+- Dhanvantari_Amrita
+- Samudra_Manthana
+
+
+Perfect. That's all about this challenge. Hope you enjoyed it.
+Thank you for playing VishwaCTF'24. Here you go with the flag for the challenge 'Sagar Sangram'
+
 Flag:``` VishwaCTF{karmany-evadhikaras te ma phaleshu kadachana ma karma-phala-hetur bhur ma te sango stvakarmani} ```
