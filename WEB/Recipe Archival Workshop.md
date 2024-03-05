@@ -10,7 +10,7 @@ Looking at the challenge we can tell it is a file upload vulnerability.So, for t
 
 [Burp Extension](https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa)
 
-after downloading the extension ,open burpsuite and go to upload scanner extension and enable the Create log see 'Done upload" tab.
+after downloading the extension, click on right click on "upload" and select the extension "Upload Scanner", in burp suite go to upload scanner extension and enable the Create log see 'Done upload" tab.
 
 ![webrecipe](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/5060f265-9178-4fb7-bf08-116017045204)
 
