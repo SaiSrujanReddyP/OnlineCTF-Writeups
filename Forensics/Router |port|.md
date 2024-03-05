@@ -1,4 +1,4 @@
-## Task 3: Router |port|
+#Challenge 1; Router |port|
 Question: There's some unusual traffic on the daytime port, but it isn't related to date or time requests. Analyze the packet capture to retrieve the flag.
 
 We are given a pcap file that has several packets with different protocols. The description mentioned something about daytime port, so I checked online on what port is it to filter my search. Doing some Googling, the port for daytime protocol is `Port 13 (tcp/udp)`. Looking at the packets, there seems to be encoded text that holds valuable information. This is pretty guessy but I tried Vigenère decode with this [site](https://www.guballa.de/vigenere-solver) and it shows that it was decoded using keyword `nnn`.
