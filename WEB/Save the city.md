@@ -1,4 +1,4 @@
-# Challenge 2: Save The City
+# Challenge 5: Save The City
 Question: The RAW Has Got An Input That ISIS Has Planted a Bomb Somewhere In The Pune! Fortunetly, RAW Has Infiltratrated The Internet Activity of One Suspect And They Found This Link. You Have To Find The Location ASAP!
 
 We are given a netcat connection and using the command, we get a weird SSH version and it disconnects automatically after a few seconds.
