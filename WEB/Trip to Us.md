@@ -1,4 +1,4 @@
- Task 1: Trip To Us
+# Challenge 6: Trip To Us
 Question: IIT kharakpur is organizing a US Industrial Visit. The cost of the registration is $1000. But as always there is an opportunity for intelligent minds. Find the hidden login and Get the flag to get yourself a free US trip ticket.
 
 We are given a website of a US Industrial Visit form.
