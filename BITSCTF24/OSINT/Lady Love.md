@@ -1,9 +1,7 @@
-## Task 1: LadyLove
+# Challenge 1: LadyLove
 Question: Sir-Steals-A-Lot is a world famous art thief. Lately he stole this painting. When he was caught he claimed to have done it because the painting commemorates the location of the crowned glory of his lady love. They fell in love in her hometown but her grandfather wouldn't let her marry a thief like him.! Answer is the meaning of his LadyLove's last name. Wrap the answer in the flag.
 
 Hint: 16th February 2024 is his LadyLove's 111th birthday (if she were still alive)
-
-Flag: `BITSCTF{queen}`
 
 To start off my search, I did a reverse image search on the painting to find more information on it. Going through the first website, it seems that the painter's name was Peter Adolf Hall.
 
@@ -18,3 +16,5 @@ So I googled for Belgium ladies born on 1918 and found a specific woman named Ke
 ![image](https://github.com/warlocksmurf/onlinectf-writeups/assets/121353711/a4245872-c36d-495a-ae26-37206ecdc73c)
 
 ![ece](https://github.com/warlocksmurf/onlinectf-writeups/assets/121353711/bb4d5db4-8787-4fe9-8e4b-2758f6a87b8a)
+
+Flag: `BITSCTF{queen}`
