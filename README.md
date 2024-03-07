@@ -1,6 +1,7 @@
 # WELCOME TO MY ONLINE-WRITEUPS!
 I am P.Sai Srujan Reddy
-Connect to me here,
+
+Connect to me,
 
 [Linkedin](www.linkedin.com/in/pothamsetti-sai-srujan-reddy)
 
