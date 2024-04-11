@@ -7,6 +7,7 @@ The exploit is that you can force mailing API fields to cc additional emails des
 and bypass the front-end email verification by using Burp Suite where we send an HTTPS request without being verified by the actual text box, then simply add another email after the email.
 Afterwards, you will receive the email with the flag.
 
+## My solution
 What I did was made an account I just put some characters in front of the email and registered a google account matching The mail we got from th challenge, like  myemail\x00b8500763@gmail.com 
 
 I felt like doing this after seeing the below 
