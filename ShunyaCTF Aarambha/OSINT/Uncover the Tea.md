@@ -13,26 +13,20 @@ popcorn and get ready for the tea, 'cause this story's about to get wilder than 
 
 FLAG FORMAT: ```0CTF{Event_Year_FirstNameOfPerson1_LastNameOfPerson2}```
 
-So I searched in google for articles related to "Rappers fights and headbumps",
+So I searched Google for articles related to "Rappers fights and head bumps",
 Then I came across this article that piqued my interest,
 [Article Link](https://www.usatoday.com/story/life/people/2018/09/08/cardi-b-and-nicki-minaj-fight-new-york-fashion-week-party/1237978002/)
 
-The article talks about Cardi B getting injured after fight with Nicki Minaj at New York Fashion Week party, after further looking into the 
-article I found out the reason they fought was beacuse, In a post on Instagram, Cardi B didn't call out Minaj by name 
-but alluded to the fight and said she was sparked because her mothering skills were being disparaged. 
+The article talks about Cardi B getting injured after a fight with Nicki Minaj at a New York Fashion Week party, after further looking into the 
+article I found out the reason they fought was that Cardi has BEEN Wanting To Put Hands On Nicki, So She Just Justified Her Actions By Using 'She Spoke On My Child
+' As An Excuse. There are No Receipts Of Nicki Ever Speaking On Her Kid.
 
-![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/e3e730f0-0eeb-4739-8022-70edb8c4f416)
+And there are also other things like the record label, trading avocado toast recipes, or arguing over who's got the better Spotify playlist.
 
+All these made me conclude that this is about them.
 
-I Think Cardi has BEEN Wanting To Put Hands On Nicki, So She Just Justified Her Actions By Using 'She Spoke On My Child
-' As An Excuse. Theirs No Receipts Of Nicki Ever Speaking On Her Kid.
+So the event is 2018 New York Fashion Week.
 
-And there also other things like the record label,trading avocado toast recipes or arguing over who's got the better Spotify playlist.
-
-All these made me come to conclusion that this is about them.
-
-So the event is 2018 New York Fashion Week .
-
-First person is the one who got hit is Cardi B and the other one is Nicki Minaj.
+The first person who got hit is Cardi B and the other is Nicki Minaj.
 
 Flag: ```0CTF{NYFW_2018_Cardi_Minaj}```
