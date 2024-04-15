@@ -21,7 +21,14 @@ The image matches ours,
 We get a map of where the event happened on the website,
 ![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/9f2c8399-18a1-4218-93d1-05101a4afbb2)
 
+After trying multiple Garibpur, I found the one matching our map 
+![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/a28ac868-e75f-41d6-90cc-ddb07e915e6d)
 
-if we search for the location in google maps, we get the location of the place as somewhere in 23.23 N and 89.04 S,
+
+The location matching the map is in the same line as the bridge, 
+
+![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/16e23edf-460b-4994-9765-e27eadc3ac42)
+
+We get the location of the place as somewhere in 23.23 N and 89.04 S,
 
 Flag: ```0CTF{23.23, 89.04}```
