@@ -2,6 +2,8 @@
 
 Question: There's no osint without geoguesser... this one is pretty simple, find out the location co-ordinates of the AREA where the battle took place. I wish googlemaps could've worked that time :(((
 
+![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/be92cd23-883e-499a-8064-57a9ef5f5575)
+
 Note: you only need to be precise upto 2 decimals, i.e: 99.32 N, 29.06 E This has been done because there's no exact location where battles are fought so just a generic nearby approx location would do. Flag Format: 0CTF{XX.XX,YY.YY}
 
 FLAG FORMAT: ```0CTF{XX.XX,YY.YY}```
@@ -13,11 +15,6 @@ Reverse search the image we got in BIBBA [PART-2], in Google
 I opened the first article,
 [Article Link](https://www.bssnews.net/news/99954)
 
-
-The article talks about Cardi B getting injured after a fight with Nicki Minaj at a New York Fashion Week party.
-
-![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/e3e730f0-0eeb-4739-8022-70edb8c4f416)
-
 The image matches ours,
 ![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/46a9f61f-c326-446a-a5b2-5a30ef8225ce)
 
@@ -28,5 +25,3 @@ We get a map of where the event happened on the website,
 if we search for the location in google maps, we get the location of the place as somewhere in 23.23 N and 89.04 S,
 
 Flag: ```0CTF{23.23, 89.04}```
-
-![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/be92cd23-883e-499a-8064-57a9ef5f5575)
