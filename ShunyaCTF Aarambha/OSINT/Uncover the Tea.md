@@ -15,11 +15,17 @@ FLAG FORMAT: ```0CTF{Event_Year_FirstNameOfPerson1_LastNameOfPerson2}```
 
 So I searched Google for articles related to "Rappers fights and head bumps",
 Then I came across this article that piqued my interest,
+
 [Article Link](https://www.usatoday.com/story/life/people/2018/09/08/cardi-b-and-nicki-minaj-fight-new-york-fashion-week-party/1237978002/)
 
-The article talks about Cardi B getting injured after a fight with Nicki Minaj at a New York Fashion Week party, after further looking into the 
-article I found out the reason they fought was that Cardi has BEEN Wanting To Put Hands On Nicki, So She Just Justified Her Actions By Using 'She Spoke On My Child
-' As An Excuse. There are No Receipts Of Nicki Ever Speaking On Her Kid.
+
+The article talks about Cardi B getting injured after a fight with Nicki Minaj at a New York Fashion Week party.
+
+![image](https://github.com/PSrujanReddy/OnlineCTF-Writeups/assets/118731259/e3e730f0-0eeb-4739-8022-70edb8c4f416)
+
+After further looking into the article I found out the reason they fought was that Cardi has BEEN Wanting To Put 
+Hands On Nicki, So She Just Justified Her Actions By Using 'She Spoke On My Child' As An Excuse. There are No 
+Receipts Of Nicki Ever Speaking On Her Kid.
 
 And there are also other things like the record label, trading avocado toast recipes, or arguing over who's got the better Spotify playlist.
 
