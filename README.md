@@ -1,4 +1,4 @@
-# 🛡️ Web CTF Write-ups
+# 💻 CTF Write-ups
 
 Welcome to my repository of CTF challenge write-ups! Here, I document my journey through various Capture The Flag (CTF) competitions, sharing detailed solutions and insights into the challenges I've experienced. This repository is a resource for anyone interested in learning more about web security and CTF challenges.
 
