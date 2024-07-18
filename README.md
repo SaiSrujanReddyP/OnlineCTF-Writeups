@@ -8,6 +8,7 @@ Welcome to my repository of CTF challenge write-ups! Here, I document my journey
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [Contact](#contact)
+- [License](#license)
 
 ## 🏆 Introduction
 
@@ -93,6 +94,11 @@ If you have any questions or suggestions, feel free to reach out.
 - **Email**: [srujansaireddy](mailto:srujansaireddy.p@gmail.com)
 - **GitHub**: [SaiSrujanReddyP](https://github.com/SaiSrujanReddyP)
 
+## ⚖️ License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
 
 ⭐️ Don't forget to give the project a star if you found it helpful!
 
